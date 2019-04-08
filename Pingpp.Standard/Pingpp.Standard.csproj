@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <PackageId>Pingpp.Standard</PackageId>
+        <AssemblyName>Pingpp.Standard</AssemblyName>
+        <Version>1.0.0</Version>
+        <Description>
+            基于 Ping++ 官方 SDK 包编写的 .NET Standard 库，支持 .NET Framework 与 .NET Core。
+        </Description>
+        <PackageLicenseUrl>https://github.com/GameBelial/Pingpp.Standard</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/GameBelial/Pingpp.Standard</RepositoryUrl>
+        <PackageTags>ping++;pingpp;csharp;alipay;wepay;pay;dotnet;dotnet core;dotnet standard</PackageTags>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    </ItemGroup>
+
+</Project>
