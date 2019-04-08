@@ -10,7 +10,8 @@
         <Description>
             基于 Ping++ 官方 SDK 包编写的 .NET Standard 库，支持 .NET Framework 与 .NET Core。
         </Description>
-        <PackageLicenseUrl>https://github.com/GameBelial/Pingpp.Standard</PackageLicenseUrl>
+        <PackageLicenseUrl>https://github.com/GameBelial/Pingpp.Standard/blob/master/LICENSE</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/GameBelial/Pingpp.Standard</PackageProjectUrl>
         <RepositoryUrl>https://github.com/GameBelial/Pingpp.Standard</RepositoryUrl>
         <PackageTags>ping++;pingpp;csharp;alipay;wepay;pay;dotnet;dotnet core;dotnet standard</PackageTags>
         <RepositoryType>git</RepositoryType>
